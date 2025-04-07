@@ -1,2 +1,2 @@
 # blank-until-its-not
-Will be updated closer to public release
+Monitor this space and follow @NullUntilBoot on twitter for clues and updates
