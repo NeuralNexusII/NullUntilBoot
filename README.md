@@ -1,5 +1,5 @@
 # NullUntilBoot
-Monitor **[#s31-bittensor](https://discord.com/channels/799672011265015819/1222990781577433232)**, this readme, and follow @NullUntilBoot on twitter for clues and updates
+Monitor the Bittensor **[#S31](https://discord.com/channels/799672011265015819/1222990781577433232)** channel, this readme, and follow @NullUntilBoot on twitter for clues and updates
 
 ### Validators - clone the repo and run the validator.py code
 
