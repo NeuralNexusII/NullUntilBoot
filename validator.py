@@ -6,7 +6,7 @@ import time
 import bittensor as bt
 
 # Compute the spec version from __version__.
-__version__ = "2.0.12"
+__version__ = "2.0.13"
 version_split = __version__.split(".")
 spec_version = (1000 * int(version_split[0])) + (10 * int(version_split[1])) + (1 * int(version_split[2]))
 
